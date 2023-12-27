@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "aws_profile" {
   type        = string
   description = "Profile Terraform para AWS"
-  default     = "terraform-jseti"
+  #default     = "your_profile"
 }
 
 #EC2
