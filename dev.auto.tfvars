@@ -1,0 +1,1 @@
+#Configurações de variáveis para ambientes de desenvolvimento passados automaticamente para o Terraform
